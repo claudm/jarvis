@@ -1,0 +1,7 @@
+wikipedia
+pygoogle
+nltk
+sympy
+SpeechRecognition
+numpy
+pwntools
